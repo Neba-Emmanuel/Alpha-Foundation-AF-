@@ -8,6 +8,7 @@
 	
 ## :dart:Aims:dart:	
 Alpha Foundation(AF) will fulfill the aim by:
+	
   <ul>
     <li>Promoting and fostering humanitarian support to the less privileged in the society.</li>
     <li>promote entrepreneurship ideas among members.</li>
